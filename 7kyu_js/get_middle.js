@@ -1,3 +1,5 @@
+// Return the middle character in a given string
+
 function getMiddle(s)
 {
   //Code goes here!
