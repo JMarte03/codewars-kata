@@ -43,3 +43,4 @@ console.log(lastDigit(4n, 1n))            // returns 4n
 console.log(lastDigit(4n, 2n))            // returns 6n
 console.log(lastDigit(9n, 7n))            // returns 9n  
 console.log(lastDigit(10n, 17294823523958982847n))  // returns 0n
+
